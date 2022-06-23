@@ -19,6 +19,7 @@ textarea {
     margin: 1rem auto;
     padding-top: 0.5rem;
     padding-bottom: 5.5rem;
+    padding-left: 0.3rem;
 }
 
 #output{
@@ -27,7 +28,8 @@ textarea {
     height: 10vh;
     width: 80%;
     margin: 1rem auto;
-    padding: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 0.3rem;
 }
 
 #btn-translate{
@@ -44,11 +46,11 @@ textarea {
     margin-left: auto;
 }
 
-/* @media(max-width:700px){
+@media(max-width:700px){
     .text{
         text-align: center;
     }
-} */
+}
 
 footer{
     max-width: auto;
