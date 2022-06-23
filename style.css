@@ -59,13 +59,6 @@ footer{
     padding: 1rem;
 }
 
-@media(max-width: 350px){
-    footer{
-        max-width: 350px;
-        width: 100%;
-    }
-}
-
 @media(max-width: 700px){
     footer{
         max-width: auto;
@@ -76,14 +69,6 @@ p{
     width: 450px;
     margin-top: 1rem;
     text-align: center;
-}
-
-@media(max-width: 350px){
-    p{
-        width: 100px;
-        font-size: 8px;
-        text-align: center;
-    }
 }
 
 @media(max-width: 700px){
